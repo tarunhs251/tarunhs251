@@ -1,8 +1,47 @@
 <h1 align="center">Hi 👋, I'm TARUN H S</h1>
-<h3 align="center">🎓 I'm a final-year Computer Science & Engineering (Data Science) student at RV College of Engineering, Bengaluru. 💡 I'm passionate about building real-world tech projects, exploring machine learning, AI, and full-stack development. 🚀 Always learning, experimenting, and collaborating on cool ideas. ---</h3>
+<h3 align="center">🎓 I'm a final-year Computer Science & Engineering (Data Science) student at RV College of Engineering, Bengaluru. 💡 I'm passionate about building real-world tech projects, exploring machine learning, AI, and full-stack development. 🚀 Always learning, experimenting, and collaborating on cool ideas.</h3>
 
 - 📫 How to reach me **tarunhs251@gmail.com**
+## 🧠 Interests
+- Data Science & Machine Learning
+- Software Engineering & Agile Methodologies
+- Backend Development (Python, Node.js)
+- Frontend (React, Tailwind CSS)
+- AI/ML | Deep Learning | NLP
+- Open Source Contribution
 
+---
+
+## 🛠️ Technologies & Tools
+- **Languages**: Python, C++, JavaScript, SQL, R
+- **Frameworks**: Flask, Django, React
+- **Data**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
+- **Databases**: MySQL, MongoDB, Firebase
+- **Tools**: Git, GitHub, VS Code, Jupyter, Postman
+
+---
+
+## 📌 Current Goals
+- Contribute to open source projects
+- Build ML-powered web applications
+- Complete projects for portfolio
+
+---
+
+## 📂 Featured Projects
+*(Coming soon... stay tuned as I upload them here!)*  
+Feel free to check out my repositories and give feedback or suggestions.
+
+---
+
+## 📫 Let's Connect!
+- Email: [tarunhs@example.com](mailto:tarunhs@example.com) *(replace with your real one)*
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- Portfolio (coming soon!)
+
+---
+
+🌟 **Thanks for visiting my GitHub! I'm always open to learning, collaboration, and feedback.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/tarun-h-s-251bea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tarun-h-s-251bea" height="30" width="40" /></a>
