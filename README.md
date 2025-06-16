@@ -34,13 +34,6 @@ Feel free to check out my repositories and give feedback or suggestions.
 
 ---
 
-## 📫 Let's Connect!
-- Email: [tarunhs@example.com](mailto:tarunhs@example.com) *(replace with your real one)*
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- Portfolio (coming soon!)
-
----
-
 🌟 **Thanks for visiting my GitHub! I'm always open to learning, collaboration, and feedback.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
