@@ -13,11 +13,11 @@
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, C++, JavaScript, SQL, R
-- **Frameworks**: Flask, Django, React
+- **Languages**: Python, C++,C, SQL
+- **Frameworks**: Flask
 - **Data**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
 - **Databases**: MySQL, MongoDB, Firebase
-- **Tools**: Git, GitHub, VS Code, Jupyter, Postman
+- **Tools**: Git, GitHub, VS Code, Jupyter
 
 ---
 
